@@ -20,11 +20,11 @@ Then visit http://127.0.0.1:8080/
 - `privacy.html` Privacy Policy (includes SMS consent, frequency, STOP/HELP, and no sharing of mobile numbers for third-party marketing)
 - `terms.html` Terms of Service and SMS terms
 - `404.html` GitHub Pages not-found page
-- `demo/summit-missed-call-demo.mp4` should be added when the recording is ready (the video tag already points here). Then remove the `demo-pending` class from the demo frame in `index.html` so the player is shown instead of the poster image.
+- `demo/summit-missed-call-demo.mp4` demo walkthrough (labeled Demo: simulated conversation; the shop is fictional), with `demo/poster.jpg` as the player poster
 
 ## What this repo is ready for
 
-GitHub Pages or Cloudflare Pages, from the root of this folder, with relative links. Do not push or publish until the owner approves.
+GitHub Pages or Cloudflare Pages, from the root of this folder, with relative links. The owner approved publishing this site on GitHub Pages after the demo video was added.
 
 Suggested GitHub repo name under the existing account `5msvynthfp-cyber`: `summit-revenue-systems`
 
